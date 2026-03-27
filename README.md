@@ -1,4 +1,4 @@
-<img src="assets/cover.png" width="70%">
+<img src="cover.png" width="70%">
 
 # CIFAR-10 CNN vs DNN Validation Comparison
 
