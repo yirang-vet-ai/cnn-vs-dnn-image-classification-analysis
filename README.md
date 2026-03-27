@@ -1,6 +1,14 @@
-<img src="assets/confusion_matrix_example.png" width="100%">
+<img src="assets/cover.png" width="70%">
 
 # CIFAR-10 CNN vs DNN Validation Comparison
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)]
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15%2B-orange)]
+[![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)]
+
+Author: Yirang Jung  
+License: Apache License 2.0
 
 ## 1. Overview
 
